@@ -1,2 +1,2 @@
 # yt
-node app.js
+ng serve --open
